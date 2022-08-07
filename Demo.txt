@@ -1,0 +1,114 @@
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: lstat name "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-38/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-38_statsfile.xml.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: stat name "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-38/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-38_statsfile.xml.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: open "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-38/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-38_statsfile.xml.gz" flags READ mode 0666
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: close "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-38/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-38_statsfile.xml.gz" bytes read 588 written 0
+
+ 
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: lstat name "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11,ManagedElement=1_rnc_gpehfile_Mp32.bin.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: stat name "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11,ManagedElement=1_rnc_gpehfile_Mp32.bin.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: open "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11,ManagedElement=1_rnc_gpehfile_Mp32.bin.gz" flags READ mode 0666
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: close "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11,ManagedElement=1_rnc_gpehfile_Mp32.bin.gz" bytes read 3936956 written 0
+
+ 
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: lstat name "/ericsson/pmic2/XML/NetworkElement=CORE04SBG05/1126/A20220715.0315+0100-0330+0100_-1_1126_NetworkElement=CORE04SBG05_statsfile.xml.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: stat name "/ericsson/pmic2/XML/NetworkElement=CORE04SBG05/1126/A20220715.0315+0100-0330+0100_-1_1126_NetworkElement=CORE04SBG05_statsfile.xml.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: open "/ericsson/pmic2/XML/NetworkElement=CORE04SBG05/1126/A20220715.0315+0100-0330+0100_-1_1126_NetworkElement=CORE04SBG05_statsfile.xml.gz" flags READ mode 0666
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: close "/ericsson/pmic2/XML/NetworkElement=CORE04SBG05/1126/A20220715.0315+0100-0330+0100_-1_1126_NetworkElement=CORE04SBG05_statsfile.xml.gz" bytes read 1529 written 0
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: lstat name "/ericsson/pmic2/ebm/data/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE12SGSN004/A20220715.0338+0100-20220715.0339+0100_1_ebs.957"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: stat name "/ericsson/pmic2/ebm/data/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE12SGSN004/A20220715.0338+0100-20220715.0339+0100_1_ebs.957"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: open "/ericsson/pmic2/ebm/data/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE12SGSN004/A20220715.0338+0100-20220715.0339+0100_1_ebs.957" flags READ mode 0666
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: close "/ericsson/pmic2/ebm/data/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE12SGSN004/A20220715.0338+0100-20220715.0339+0100_1_ebs.957" bytes read 10484116 written 0
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: lstat name "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE50dg2ERBS00034/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE50dg2ERBS00034_statsfile.xml.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: stat name "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE50dg2ERBS00034/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE50dg2ERBS00034_statsfile.xml.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: open "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE50dg2ERBS00034/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE50dg2ERBS00034_statsfile.xml.gz" flags READ mode 0666
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: close "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE50dg2ERBS00034/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE50dg2ERBS00034_statsfile.xml.gz" bytes read 191911 written 0
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: lstat name "/ericsson/pmic1/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-48/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-48_statsfile.xml.gz"
+
+Jul 15 03:45:14 ieatenmc5b03-scp-0 sftp-server[26292]: stat name "/ericsson/pmic1/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-48/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=CORE15ML6352-2-8-48_statsfile.xml.gz"Time NumberOfFiles VolumeUploaded TimeTaken
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26881]: open "/ericsson/pmic1/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE46dg2ERBS00079/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE46dg2ERBS00079_celltracefile_DUL1_3.bin.gz" flags READ mode 0666
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[27240]: open "/ericsson/pmic1/XML/NetworkElement=CORE03SBG02/1256/A20220715.0315+0100-0330+0100_-1_1256_NetworkElement=CORE03SBG02_statsfile.xml.gz" flags READ mode 0666
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26602]: stat name "/ericsson/pmic1/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14877_LTE44ERBS00080/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14877_LTE44ERBS00080_celltracefile_DUL1_3.bin.gz"
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26688]: close "/ericsson/pmic2/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14877_LTE44ERBS00043/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14877_LTE44ERBS00043_celltracefile_DUL1_3.bin.gz" bytes read 786432 written 0
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26602]: open "/ericsson/pmic1/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14877_LTE44ERBS00080/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14877_LTE44ERBS00080_celltracefile_DUL1_3.bin.gz" flags READ mode 0666
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26688]: lstat name "/ericsson/pmic2/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE42ERBS00005/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE42ERBS00005_celltracefile_DUL1_1.bin.gz"
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[27240]: close "/ericsson/pmic1/XML/NetworkElement=CORE03SBG02/1256/A20220715.0315+0100-0330+0100_-1_1256_NetworkElement=CORE03SBG02_statsfile.xml.gz" bytes read 1529 written 0
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26292]: close "/ericsson/pmic2/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE45dg2ERBS00020/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE45dg2ERBS00020_celltracefile_DUL1_1.bin.gz" bytes read 2359296 written 0
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26688]: stat name "/ericsson/pmic2/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE42ERBS00005/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE42ERBS00005_celltracefile_DUL1_1.bin.gz"
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[27240]: lstat name "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE35ERBS00028/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE35ERBS00028_statsfile.xml.gz"
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26688]: open "/ericsson/pmic2/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE42ERBS00005/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE42ERBS00005_celltracefile_DUL1_1.bin.gz" flags READ mode 0666
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26292]: lstat name "/ericsson/pmic1/XML/NetworkElement=CORE04SBG04/1009/A20220715.0315+0100-0330+0100_-1_1009_NetworkElement=CORE04SBG04_statsfile.xml.gz"
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[27240]: stat name "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE35ERBS00028/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE35ERBS00028_statsfile.xml.gz"
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[27240]: open "/ericsson/pmic2/XML/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE35ERBS00028/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=ERBS-SUBNW-1,MeContext=ieatnetsimv14876_LTE35ERBS00028_statsfile.xml.gz" flags READ mode 0666
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26292]: stat name "/ericsson/pmic1/XML/NetworkElement=CORE04SBG04/1009/A20220715.0315+0100-0330+0100_-1_1009_NetworkElement=CORE04SBG04_statsfile.xml.gz"
+
+Jul 15 03:46:00 ieatenmc5b03-scp-0 sftp-server[26881]: close "/ericsson/pmic1/CELLTRACE/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE46dg2ERBS00079/A20220715.0315+0100-0330+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=NETSimW,ManagedElement=LTE46dg2ERBS00079_celltracefile_DUL1_3.bin.gz" bytes read 786432 written 0
+
+Jul 15 04:00:13 ieatenmc5b03-scp-0 sftp-server[23100]: session opened for local user PM_26_0708-13452675_u0 from [10.232.47.225]
+
+Jul 15 04:00:13 ieatenmc5b03-scp-0 sftp-server[23100]: received client version 3
+
+Jul 15 04:00:13 ieatenmc5b03-scp-0 sftp-server[23100]: realpath "."
+
+Jul 15 04:00:13 ieatenmc5b03-scp-0 sftp-server[23100]: lstat name "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=ieatnetsimv14881_RNC11RBS37/A20220715.0330+0100-0345+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=ieatnetsimv14881_RNC11RBS37,ManagedElement=1_rbs_gpehfile_Mp0.bin.gz"
+
+Jul 15 04:00:13 ieatenmc5b03-scp-0 sftp-server[23100]: stat name "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=ieatnetsimv14881_RNC11RBS37/A20220715.0330+0100-0345+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=ieatnetsimv14881_RNC11RBS37,ManagedElement=1_rbs_gpehfile_Mp0.bin.gz"
+
+Jul 15 04:00:13 ieatenmc5b03-scp-0 sftp-server[23100]: open "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=ieatnetsimv14881_RNC11RBS37/A20220715.0330+0100-0345+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=ieatnetsimv14881_RNC11RBS37,ManagedElement=1_rbs_gpehfile_Mp0.bin.gz" flags READ mode 0666
+
+Jul 15 04:00:13 ieatenmc5b03-scp-0 sftp-server[23100]: close "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=ieatnetsimv14881_RNC11RBS37/A20220715.0330+0100-0345+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=ieatnetsimv14881_RNC11RBS37,ManagedElement=1_rbs_gpehfile_Mp0.bin.gz" bytes read 138 written 0
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: session opened for local user PM_26_0708-13452675_u0 from [10.232.47.225]
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: received client version 3
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: realpath "."
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: lstat name "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11/A20220715.0345+0100-0400+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11,ManagedElement=1_rnc_gpehfile_Mp5.bin.gz"
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: stat name "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11/A20220715.0345+0100-0400+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11,ManagedElement=1_rnc_gpehfile_Mp5.bin.gz"
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: open "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11/A20220715.0345+0100-0400+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11,ManagedElement=1_rnc_gpehfile_Mp5.bin.gz" flags READ mode 0666
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: close "/ericsson/pmic2/GPEH/SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11/A20220715.0345+0100-0400+0100_SubNetwork=Europe,SubNetwork=Ireland,SubNetwork=RNC11,MeContext=RNC11,ManagedElement=1_rnc_gpehfile_Mp5.bin.gz" bytes read 3936956 written 0
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: lstat name "/ericsson/pmic2/XML/NetworkElement=CORE03SBG04/1156/A20220715.0345+0100-0400+0100_-1_1156_NetworkElement=CORE03SBG04_statsfile.xml.gz"
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: stat name "/ericsson/pmic2/XML/NetworkElement=CORE03SBG04/1156/A20220715.0345+0100-0400+0100_-1_1156_NetworkElement=CORE03SBG04_statsfile.xml.gz"
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: open "/ericsson/pmic2/XML/NetworkElement=CORE03SBG04/1156/A20220715.0345+0100-0400+0100_-1_1156_NetworkElement=CORE03SBG04_statsfile.xml.gz" flags READ mode 0666
+
+Jul 15 04:15:11 ieatenmc5b03-scp-0 sftp-server[13247]: close "/ericsson/pmic2/XML/NetworkElement=CORE03SBG04/1156/A20220715.0345+0100-0400+0100_-1_1156_NetworkElement=CORE03SBG04_statsfile.xml.gz" bytes read 1530 written 0
